@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 162,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "time": 138,
+    "timeDay": 138,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/2yjjyvbac3as.share.zrok.io.ico",
     "slug": "casaos",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 535,
-    "timeDay": 535,
-    "timeWeek": 535,
-    "timeMonth": 535,
-    "timeYear": 535,
+    "uptime": "3.43%",
+    "uptimeDay": "3.43%",
+    "uptimeWeek": "3.43%",
+    "uptimeMonth": "3.43%",
+    "uptimeYear": "3.43%",
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {
-      "2024-09-26": 0
+      "2024-09-27": 97,
+      "2024-09-26": 301
     }
   }
 ]
