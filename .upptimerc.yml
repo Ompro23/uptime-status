@@ -9,6 +9,8 @@ sites:
     url: https://kijfq97p2k80.share.zrok.io/
   - name: Gitea
     url: https://q5tk1s2laal7.share.zrok.io/
+  - name: PVM
+    url: https://supposedly-stirred-sawfish.ngrok-free.app/
   - name: TestPort
     url: https://ompro23.github.io/testport/
   - name: MirrAR
