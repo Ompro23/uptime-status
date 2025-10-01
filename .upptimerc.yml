@@ -5,16 +5,16 @@ repo: uptime-status # The name of this repository
 sites:
   - name: Portfolio
     url: https://ompro23.github.io/portfolio
-  - name: Casaos
-    url: https://kijfq97p2k80.share.zrok.io/
-  - name: Gitea
-    url: https://q5tk1s2laal7.share.zrok.io/
-  - name: PVM
-    url: https://supposedly-stirred-sawfish.ngrok-free.app/
+ # - name: Casaos
+ #   url: https://kijfq97p2k80.share.zrok.io/
+#  - name: Gitea
+#    url: https://q5tk1s2laal7.share.zrok.io/
+#  - name: PVM
+#    url: https://supposedly-stirred-sawfish.ngrok-free.app/
   - name: TestPort
     url: https://ompro23.github.io/testport/
-  - name: MirrAR
-    url: https://mirr-ar-mauve.vercel.app/
+#  - name: MirrAR
+#    url: https://mirr-ar-mauve.vercel.app/
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
